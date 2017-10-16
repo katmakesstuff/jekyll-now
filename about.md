@@ -12,4 +12,4 @@ TBD!
 
 ### contact me
 
-[klabugue@gmail.com](mailto:klabugue@gmail.com)
+[klabugue@eng.ucsd.edu](mailto:klabugue@eng.ucsd.edu)
